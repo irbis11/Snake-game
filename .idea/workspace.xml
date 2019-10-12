@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="763d647e-0227-4365-9f50-12e8868ac52d" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/GameControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/tests/GameControllerTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/sqm$Main.ic" NAME="Main Coverage Results" MODIFIED="1543504137893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>paint</find>
+      <find>ren</find>
+      <find>upda</find>
+      <find>sta</find>
+      <find>remove</find>
+      <find>tail</find>
+      <find>point</find>
+      <find>gameOv</find>
+      <find>timer</find>
+      <find>dim</find>
+      <find>tailLength</find>
+      <find>RenderPanel</find>
+      <find>renderPanel</find>
+      <find>gameSpeed</find>
+      <find>GameController.screenWidth</find>
+      <find>isGamePaused</find>
+      <find>rand</find>
+      <find>tailco</find>
+      <find>game</find>
+      <find>gameP</find>
+      <find>time</find>
+      <find>SCALE</find>
+      <find>actionPerformed</find>
+      <find>System.out.print</find>
+      <find>LOGGER</find>
+      <find>updateDirection</find>
+      <find>Collided with tail</find>
+      <find>keyDirection</find>
+      <find>checkGameState</find>
+      <find>score</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>scale</replace>
+      <replace>LOGGER.info</replace>
+      <replace>logger</replace>
+      <replace>getKeyDirection</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1S7WiAAgUxiEIVj6TJpU6w8rzU8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.generateSingleFile" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="sqm" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545753349420" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kleko11\Desktop\Java projects\SQM project\sqm\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="GameController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="controller.GameController" />
+      <module name="sqm project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="sqm project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Snake.Main" />
+      <module name="sqm project" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in sqm project" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sqm project" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.GameController" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="JUnit.All in sqm project" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="JUnit.All in sqm project" />
+        <item itemvalue="Application.GameController" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="763d647e-0227-4365-9f50-12e8868ac52d" name="Default" comment="" />
+      <created>1542897377816</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542897377816</updated>
+      <workItem from="1542897381752" duration="199000" />
+      <workItem from="1542898747368" duration="662000" />
+      <workItem from="1542899551432" duration="230000" />
+      <workItem from="1542900270756" duration="81000" />
+      <workItem from="1542900887065" duration="90000" />
+      <workItem from="1542901006109" duration="707000" />
+      <workItem from="1543060446175" duration="1197000" />
+      <workItem from="1543445241591" duration="17722000" />
+      <workItem from="1543684757441" duration="689000" />
+      <workItem from="1543769763520" duration="14642000" />
+      <workItem from="1544136170339" duration="7588000" />
+      <workItem from="1545752648995" duration="884000" />
+      <workItem from="1545753840820" duration="552000" />
+      <workItem from="1570915240259" duration="267000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="All_in_sqm_project - 2018.12.07 at 15h 55m 49s.xml">
+      <configuration name="All in sqm project" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_sqm_project - 2018.12.07 at 16h 12m 20s.xml">
+      <configuration name="All in sqm project" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_sqm_project - 2018.12.07 at 16h 12m 28s.xml">
+      <configuration name="All in sqm project" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_sqm_project - 2018.12.07 at 16h 30m 39s.xml">
+      <configuration name="All in sqm project" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_sqm_project - 2018.12.07 at 16h 42m 07s.xml">
+      <configuration name="All in sqm project" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_sqm_project - 2018.12.07 at 17h 09m 35s.xml">
+      <configuration name="All in sqm project" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_sqm_project - 2018.12.07 at 17h 11m 03s.xml">
+      <configuration name="All in sqm project" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_sqm_project - 2018.12.07 at 17h 38m 01s.xml">
+      <configuration name="All in sqm project" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_sqm_project - 2018.12.07 at 17h 52m 28s.xml">
+      <configuration name="All in sqm project" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_sqm_project - 2018.12.07 at 17h 58m 45s.xml">
+      <configuration name="All in sqm project" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="808" y="407" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1570915267207">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="808" y="407" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1570915267207" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>sqm project</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>junit-4.13-beta-1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
