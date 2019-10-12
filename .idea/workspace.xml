@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="763d647e-0227-4365-9f50-12e8868ac52d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/GameControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/tests/GameControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controller/RenderPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/RenderPanel.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -173,6 +171,7 @@
       <workItem from="1545752648995" duration="884000" />
       <workItem from="1545753840820" duration="552000" />
       <workItem from="1570915240259" duration="267000" />
+      <workItem from="1570920029603" duration="101000" />
     </task>
     <servers />
   </component>
@@ -216,6 +215,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="808" y="407" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1570915267207" />
+    <state x="655" y="342" key="com.intellij.ide.util.TipDialog" timestamp="1570920030112">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="655" y="342" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1570920030112" />
   </component>
   <component name="masterDetails">
     <states>

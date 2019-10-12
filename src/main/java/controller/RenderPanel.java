@@ -8,7 +8,7 @@ public class RenderPanel extends JPanel {
     // Need to be transient as they don't implement serialization
     private transient GameController controller;
     private transient Font defaultFont = new Font("Verdana", Font.BOLD, 18);
-
+    private int standardOffset = 35;
     RenderPanel(GameController ctrl) {
         controller = ctrl;
     }
@@ -46,11 +46,11 @@ public class RenderPanel extends JPanel {
         graphics.drawString(controller.getScoreString(), (width / 2) - 100, 15);
         // Game pause
         if (controller.isGamePaused() && !controller.isGameOverOver()) {
-            graphics.drawString("Paused!", (width / 2) - 35, height / 2 - 35);
+            graphics.drawString("Paused!", (width / 2) - 35, height / 2 - standardOffset);
         }
         // Game over
         if (controller.isGameOverOver()) {
-            graphics.drawString("Game over!", (width / 2) - 50, height / 2 - 35);
+            graphics.drawString("Game over!", (width / 2) - 50, height / 2 - standardOffset);
         }
     }
 
